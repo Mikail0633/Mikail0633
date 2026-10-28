@@ -1,5 +1,5 @@
 <a href="https://mikail0633.github.io">
-  <img width="100%" alt="GemmGenc" src="https://capsule-render.vercel.app/api?type=venom&color=0:8b5cf6,50:a855f7,100:ec4899&height=260&section=header&text=GemmGenc&fontSize=86&fontColor=ffffff&fontAlignY=42&desc=Yaz%C4%B1l%C4%B1m%20merakl%C4%B1s%C4%B1%20%E2%80%A2%20Yay%C4%B1nc%C4%B1%20%E2%80%A2%20%C4%B0%C3%A7erik%20%C3%BCreticisi&descSize=20&descAlignY=64&animation=twinkling&stroke=f0abfc&strokeWidth=1">
+  <img width="100%" alt="GemmGenc" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:a855f7,100:ec4899&height=250&section=header&text=GemmGenc&fontSize=86&fontColor=ffffff&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20merakl%C4%B1s%C4%B1%20%E2%80%A2%20Yay%C4%B1nc%C4%B1%20%E2%80%A2%20%C4%B0%C3%A7erik%20%C3%BCreticisi&descSize=20&descAlignY=60&animation=twinkling">
 </a>
 
 <p align="center">
@@ -52,7 +52,7 @@ const gemmGenc = {
 ## 📊 GitHub istatistiklerim
 
 <p align="center">
-  <img height="170" alt="GitHub istatistikleri" src="https://github-readme-stats.vercel.app/api?username=Mikail0633&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=17141d&title_color=c084fc&icon_color=a78bfa&text_color=d6ccfb&ring_color=8b5cf6&locale=tr&custom_title=GemmGenc%20%C4%B0statistikleri">
+  <img height="170" alt="GitHub istatistikleri" src="https://github-readme-stats.vercel.app/api?username=Mikail0633&show_icons=true&hide_border=true&bg_color=17141d&title_color=c084fc&icon_color=a78bfa&text_color=d6ccfb&ring_color=8b5cf6&locale=tr&custom_title=GemmGenc%20%C4%B0statistikleri">
 </p>
 
 ## 😄 Günün geliştirici esprisi
