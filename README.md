@@ -1,10 +1,10 @@
-<p align="center">
-  <a href="https://mikail0633.github.io">
-    <img src="https://mikail0633.github.io/onizleme.png" width="680" alt="GemmGenc – Yazılım meraklısı">
-  </a>
-</p>
+<a href="https://mikail0633.github.io">
+  <img width="100%" alt="GemmGenc – Yazılım meraklısı" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:2a1f4a&height=210&section=header&text=GemmGenc&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Yaz%C4%B1l%C4%B1m%20merakl%C4%B1s%C4%B1&descSize=18&descAlignY=56&animation=fadeIn">
+</a>
 
-<h3 align="center">Merhaba, ben Mikail 👋</h3>
+<p align="center">
+  <img alt="Merhaba, ben Mikail" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Merhaba%2C+ben+Mikail+%F0%9F%91%8B;Fikirleri+koda+d%C3%B6k%C3%BCyorum;Yeni+projeler+yolda...">
+</p>
 
 <p align="center">
   Yazılıma duyduğum merakla her gün yeni bir şey deniyorum.<br>
@@ -37,3 +37,9 @@ Yeni projeler yolda — takip et, ilk sen gör. ⭐
 ![HTML](https://img.shields.io/badge/HTML-1c1924?style=flat-square&logo=html5&logoColor=e34f26)
 ![CSS](https://img.shields.io/badge/CSS-1c1924?style=flat-square&logo=css&logoColor=663399)
 ![Git](https://img.shields.io/badge/Git-1c1924?style=flat-square&logo=git&logoColor=f05032)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mikail0633&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=8b5cf6&style=flat-square" alt="Profil görüntülenme sayısı">
+</p>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f4a,100:8b5cf6&height=120&section=footer">
