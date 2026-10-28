@@ -41,6 +41,33 @@ const gemmGenc = {
 | 🌐 | **[GemmGenc sayfam](https://github.com/Mikail0633/Mikail0633.github.io)** | Tüm linklerimi toplayan kişisel sayfam. Arka plan müziği hazır şarkı değil, tarayıcıda **kodla anlık üretiliyor** 🎶 → [canlı gör](https://mikail0633.github.io) |
 | 🚀 | *Sıradaki proje* | Yolda… **⭐ takip et, ilk sen gör!** |
 
+## 🎮 Oyunlarım
+
+> Hepsi tarayıcıda çalışıyor — telefonda da oynanır, kurulum yok. Rekorunu kır, bana yaz! 🏆
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>💠 Neon Kaçış</h3>
+      Düşen neon bloklardan kaç, elmasları topla. Hız durmadan artıyor.<br><br>
+      <a href="https://mikail0633.github.io/neon-kacis/"><img src="https://img.shields.io/badge/%E2%96%B6_OYNA-8b5cf6?style=for-the-badge" alt="Oyna"></a><br>
+      <a href="https://github.com/Mikail0633/neon-kacis"><sub>kaynak kod</sub></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🐛 Bug Avcısı</h3>
+      30 saniyede bug'ları yakala, bombalara dokunma. Kombo yap, unvan kazan.<br><br>
+      <a href="https://mikail0633.github.io/bug-avcisi/"><img src="https://img.shields.io/badge/%E2%96%B6_OYNA-a855f7?style=for-the-badge" alt="Oyna"></a><br>
+      <a href="https://github.com/Mikail0633/bug-avcisi"><sub>kaynak kod</sub></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🟪 Hafıza Matrisi</h3>
+      Yanan kareleri aklında tut, aynılarını bul. Izgara büyür, döner, zorlaşır.<br><br>
+      <a href="https://mikail0633.github.io/hafiza-matrisi/"><img src="https://img.shields.io/badge/%E2%96%B6_OYNA-ec4899?style=for-the-badge" alt="Oyna"></a><br>
+      <a href="https://github.com/Mikail0633/hafiza-matrisi"><sub>kaynak kod</sub></a>
+    </td>
+  </tr>
+</table>
+
 ## ⚡ Kullandıklarım
 
 <p align="center">
